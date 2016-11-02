@@ -214,7 +214,7 @@ function create_config( )
     "inpm",
     "banhammer",
     "stats",
-    "anti_spam",
+    "plugins",
     "owners",
     "arabic_lock",
     "set",
